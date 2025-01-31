@@ -1,101 +1,13 @@
-**827**. **Making A Large Island**
-You are given an n x n binary matrix grid. You are allowed to change at most one 0 to be 1.
-Return the size of the largest island in grid after applying this operation.
-An island is a 4-directionally connected group of 1s.
+# 827. Making A Large Island
+
+## Problem Statement
+You are given an **n × n** binary matrix `grid`. You are allowed to change **at most one** `0` to `1`.  
+Return the **size of the largest island** in `grid` after applying this operation.  
+An **island** is a **4-directionally connected** group of `1`s.  
+
+---
 
 ## Example 1:
-*Input*: grid = [[1,0],[0,1]]
-Output: 3
-Explanation: Change one 0 to 1 and connect two 1s, then we get an island with area = 3.
-## Example 2:
-Input: grid = [[1,1],[1,0]]
-Output: 4
-Explanation: Change the 0 to 1 and make the island bigger, only one island with area = 4.
-## Example 3:
-Input: grid = [[1,1],[1,1]]
-Output: 4
-Explanation: Can't change any 0 to 1, only one island with area = 4.
- 
-## Constraints:
-n == grid.length
-n == grid[i].length
-1 <= n <= 500
-grid[i][j] is either 0 or 1.
-
-
-## Solution py3
-class DSU:
-    def __init__(self , length):
-        self.parent = [i for i in range(length+1)]
-        self.size = [1 for i in range(length+1)]
-    
-    def FindParent(self , node):
-        if self.parent[node] == node:
-            return node
-        
-        value = self.FindParent(self.parent[node])
-        self.parent[node] = value
-        return value
-    
-    def UnionBySize(self , u , v):
-        parent_u = self.FindParent(u)
-        parent_v = self.FindParent(v)
-
-        if parent_u == parent_v:
-            return
-        
-        elif self.size[parent_u] <= self.size[parent_v]:
-            self.parent[parent_u] = parent_v
-            self.size[parent_v] += self.size[parent_u]
-        
-        else:
-            self.parent[parent_v] = parent_u
-            self.size[parent_u] += self.size[parent_v]
-
-class Solution:
-    def largestIsland(self, grid: List[List[int]]) -> int:
-        length = len(grid)
-        dsu = DSU(length*length)
-        visited = set()
-        directions = [[1 , 0] , [0 , 1] , [-1 , 0] , [0 , -1]]
-
-        for i in range(length):
-            for j in range(length):
-                if grid[i][j] == 1 and (i , j) not in visited:
-                    self.MakeComponent(i , j , length , grid , visited , directions , dsu)
-        
-        ans = max(dsu.size)
-        for i in range(length):
-            for j in range(length):
-                if grid[i][j] == 0:
-                    parent_set = set()
-                    val = 1
-                    for x in directions:
-                        u = i+x[0]
-                        v = j+x[1]
-
-                        if 0 <= u < length and 0 <= v < length and grid[u][v] == 1:
-                            node_num = (u*length+v)
-                            parent_set.add(dsu.parent[node_num])
-                    
-                    for par in parent_set:
-                        val += dsu.size[par]
-                    ans = max(ans , val)
-        return ans
- 
-    
-    def MakeComponent(self , i , j , length , grid , visited , directions , dsu):
-        queue = deque([(i , j)])
-        visited.add((i , j))
-
-        while queue:
-            i , j = queue.popleft()
-            curr_node = (i*length + j)
-            for x in directions:
-                u = i+x[0]
-                v = j+x[1]
-                if 0 <= u < length and 0 <= v < length and grid[u][v] == 1 and (u , v) not in visited:
-                    visited.add((u , v))
-                    neigh_node = (u*length) + v
-                    dsu.UnionBySize(curr_node , neigh_node)
-                    queue.append((u , v))
+**Input:**
+```python
+grid = [[1, 0], [0, 1]]
