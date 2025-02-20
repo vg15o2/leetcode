@@ -1,2 +1,2 @@
 # leetcode
-collection of daily challenges and rest of em
+Collection of daily challenges and rest of em
