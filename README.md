@@ -7,6 +7,7 @@ Collection of daily challenges and rest of em
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vg15o2/leetcode/tree/master/0020-valid-parentheses) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vg15o2/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -28,4 +29,8 @@ Collection of daily challenges and rest of em
 |  |
 | ------- |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vg15o2/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
