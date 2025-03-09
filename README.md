@@ -25,6 +25,7 @@ Collection of daily challenges and rest of em
 |  |
 | ------- |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
+| [3483-alternating-groups-ii](https://github.com/vg15o2/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,5 @@ Collection of daily challenges and rest of em
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vg15o2/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/vg15o2/leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
