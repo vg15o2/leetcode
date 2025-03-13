@@ -29,6 +29,7 @@ Collection of daily challenges and rest of em
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vg15o2/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/vg15o2/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,8 +50,13 @@ Collection of daily challenges and rest of em
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vg15o2/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vg15o2/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
