@@ -29,6 +29,7 @@ Collection of daily challenges and rest of em
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vg15o2/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vg15o2/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/vg15o2/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/vg15o2/leetcode/tree/master/2690-house-robber-iv) |
 | [3483-alternating-groups-ii](https://github.com/vg15o2/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -53,6 +54,7 @@ Collection of daily challenges and rest of em
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vg15o2/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vg15o2/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/vg15o2/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/vg15o2/leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
