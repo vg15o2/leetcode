@@ -40,6 +40,7 @@ Collection of daily challenges and rest of em
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vg15o2/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/vg15o2/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vg15o2/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,4 +124,5 @@ Collection of daily challenges and rest of em
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/vg15o2/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vg15o2/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
