@@ -1,5 +1,5 @@
 # leetcode
-Collection of daily challenges and rest of em
+Collection of daily challenges and rest of em, thanks to leethub and its daddy
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
