@@ -48,6 +48,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vg15o2/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vg15o2/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/vg15o2/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/vg15o2/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vg15o2/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vg15o2/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -123,6 +124,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Prefix Sum
 |  |
 | ------- |
+| [2249-count-the-hidden-sequences](https://github.com/vg15o2/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vg15o2/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vg15o2/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
