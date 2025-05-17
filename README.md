@@ -47,6 +47,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vg15o2/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
@@ -222,6 +223,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vg15o2/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vg15o2/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -242,6 +244,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/vg15o2/leetcode/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
