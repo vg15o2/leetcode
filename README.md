@@ -21,6 +21,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vg15o2/leetcode/tree/master/0020-valid-parentheses) |
+| [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vg15o2/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
@@ -289,6 +290,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Monotonic Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vg15o2/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
@@ -345,4 +347,12 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vg15o2/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vg15o2/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
