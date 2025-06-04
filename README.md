@@ -17,6 +17,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vg15o2/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vg15o2/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vg15o2/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vg15o2/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0868-push-dominoes](https://github.com/vg15o2/leetcode/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vg15o2/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vg15o2/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2998-count-symmetric-integers](https://github.com/vg15o2/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vg15o2/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/vg15o2/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vg15o2/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Recursion
 |  |
 | ------- |
