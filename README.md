@@ -10,6 +10,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0038-count-and-say](https://github.com/vg15o2/leetcode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/vg15o2/leetcode/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/vg15o2/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vg15o2/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vg15o2/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vg15o2/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -207,6 +208,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/vg15o2/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/vg15o2/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vg15o2/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
