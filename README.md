@@ -17,6 +17,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vg15o2/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vg15o2/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vg15o2/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vg15o2/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vg15o2/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vg15o2/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vg15o2/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -27,6 +28,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vg15o2/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vg15o2/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vg15o2/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vg15o2/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vg15o2/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/vg15o2/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vg15o2/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/vg15o2/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vg15o2/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vg15o2/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -294,6 +297,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/vg15o2/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vg15o2/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vg15o2/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vg15o2/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/vg15o2/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -310,6 +314,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2681-put-marbles-in-bags](https://github.com/vg15o2/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/vg15o2/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vg15o2/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vg15o2/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/vg15o2/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
