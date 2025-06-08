@@ -237,6 +237,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/vg15o2/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vg15o2/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/vg15o2/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/vg15o2/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -389,4 +390,8 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vg15o2/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
