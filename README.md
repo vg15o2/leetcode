@@ -394,4 +394,5 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vg15o2/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/vg15o2/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
