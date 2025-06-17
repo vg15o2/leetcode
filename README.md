@@ -52,6 +52,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3201-distribute-candies-among-children-ii](https://github.com/vg15o2/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/vg15o2/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vg15o2/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vg15o2/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -359,6 +360,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2415-count-the-number-of-ideal-arrays](https://github.com/vg15o2/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vg15o2/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/vg15o2/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/vg15o2/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
