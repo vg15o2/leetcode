@@ -88,6 +88,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vg15o2/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/vg15o2/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vg15o2/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vg15o2/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vg15o2/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/vg15o2/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vg15o2/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -165,6 +166,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vg15o2/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vg15o2/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vg15o2/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vg15o2/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vg15o2/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/vg15o2/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vg15o2/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -196,6 +198,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vg15o2/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vg15o2/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vg15o2/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vg15o2/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vg15o2/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vg15o2/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vg15o2/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -280,6 +283,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vg15o2/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vg15o2/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vg15o2/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/vg15o2/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vg15o2/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
