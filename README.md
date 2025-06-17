@@ -120,6 +120,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3647-zero-array-transformation-iii](https://github.com/vg15o2/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vg15o2/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/vg15o2/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3723-sum-of-good-numbers](https://github.com/vg15o2/leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vg15o2/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
