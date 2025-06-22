@@ -14,6 +14,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vg15o2/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vg15o2/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vg15o2/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/vg15o2/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vg15o2/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vg15o2/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vg15o2/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -433,4 +434,8 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vg15o2/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/vg15o2/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/vg15o2/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
