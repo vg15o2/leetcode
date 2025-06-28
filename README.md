@@ -39,6 +39,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vg15o2/leetcode/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
