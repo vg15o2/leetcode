@@ -48,6 +48,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vg15o2/leetcode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/vg15o2/leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -309,6 +310,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vg15o2/leetcode/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vg15o2/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vg15o2/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -519,6 +521,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vg15o2/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/vg15o2/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vg15o2/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vg15o2/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
