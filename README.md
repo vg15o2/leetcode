@@ -53,6 +53,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/vg15o2/leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vg15o2/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vg15o2/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/vg15o2/leetcode/tree/master/1500-count-largest-group) |
@@ -228,6 +229,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/vg15o2/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vg15o2/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vg15o2/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -282,6 +284,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vg15o2/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vg15o2/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vg15o2/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -385,6 +388,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vg15o2/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vg15o2/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vg15o2/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -506,6 +510,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/vg15o2/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vg15o2/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
