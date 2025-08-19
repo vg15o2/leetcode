@@ -94,6 +94,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/vg15o2/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/vg15o2/leetcode/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vg15o2/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
@@ -327,6 +328,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vg15o2/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vg15o2/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vg15o2/leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
