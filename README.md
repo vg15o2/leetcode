@@ -93,6 +93,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/vg15o2/leetcode/tree/master/0135-candy) |
@@ -255,6 +256,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
@@ -449,6 +451,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
