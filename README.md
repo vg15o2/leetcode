@@ -94,6 +94,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/vg15o2/leetcode/tree/master/0135-candy) |
@@ -257,6 +258,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
@@ -452,6 +454,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -543,6 +546,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/vg15o2/leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vg15o2/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
