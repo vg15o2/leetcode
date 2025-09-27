@@ -69,6 +69,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0679-24-game](https://github.com/vg15o2/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/vg15o2/leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/vg15o2/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/vg15o2/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vg15o2/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -125,6 +126,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0611-valid-triangle-number](https://github.com/vg15o2/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/vg15o2/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/vg15o2/leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/vg15o2/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/vg15o2/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -743,6 +745,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/vg15o2/leetcode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vg15o2/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
 |  |
