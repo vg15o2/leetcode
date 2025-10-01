@@ -79,6 +79,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1448-maximum-69-number](https://github.com/vg15o2/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/vg15o2/leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vg15o2/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/vg15o2/leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vg15o2/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vg15o2/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -718,6 +719,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/vg15o2/leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vg15o2/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vg15o2/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/vg15o2/leetcode/tree/master/2479-meeting-rooms-iii) |
