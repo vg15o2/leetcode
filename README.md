@@ -122,6 +122,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0135-candy](https://github.com/vg15o2/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vg15o2/leetcode/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/vg15o2/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
 | [0553-optimal-division](https://github.com/vg15o2/leetcode/tree/master/0553-optimal-division) |
@@ -466,6 +467,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vg15o2/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vg15o2/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -519,6 +521,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -550,6 +553,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vg15o2/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/vg15o2/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/vg15o2/leetcode/tree/master/2023-design-movie-rental-system) |
