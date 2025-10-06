@@ -131,6 +131,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/vg15o2/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/vg15o2/leetcode/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/vg15o2/leetcode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/vg15o2/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -353,6 +354,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/vg15o2/leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vg15o2/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vg15o2/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vg15o2/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -435,6 +437,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vg15o2/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/vg15o2/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -460,6 +463,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vg15o2/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vg15o2/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vg15o2/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vg15o2/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/vg15o2/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -472,6 +476,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vg15o2/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vg15o2/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vg15o2/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -528,6 +533,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vg15o2/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/vg15o2/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -560,6 +566,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/vg15o2/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vg15o2/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/vg15o2/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/vg15o2/leetcode/tree/master/2023-design-movie-rental-system) |
