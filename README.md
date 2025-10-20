@@ -22,6 +22,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vg15o2/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vg15o2/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vg15o2/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vg15o2/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vg15o2/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vg15o2/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vg15o2/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -167,6 +168,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vg15o2/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/vg15o2/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vg15o2/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vg15o2/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vg15o2/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vg15o2/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vg15o2/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -775,6 +777,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/vg15o2/leetcode/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/vg15o2/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vg15o2/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vg15o2/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/vg15o2/leetcode/tree/master/2479-meeting-rooms-iii) |
