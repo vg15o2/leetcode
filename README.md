@@ -272,6 +272,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3791-fruits-into-baskets-iii](https://github.com/vg15o2/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/vg15o2/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/vg15o2/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -392,6 +393,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vg15o2/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/vg15o2/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/vg15o2/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vg15o2/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -497,6 +499,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vg15o2/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/vg15o2/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vg15o2/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -508,6 +511,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vg15o2/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vg15o2/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vg15o2/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -527,6 +531,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2793-count-the-number-of-complete-components](https://github.com/vg15o2/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vg15o2/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vg15o2/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -541,6 +546,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2793-count-the-number-of-complete-components](https://github.com/vg15o2/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vg15o2/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vg15o2/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -649,6 +655,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vg15o2/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/vg15o2/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/vg15o2/leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -786,6 +793,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3790-fruits-into-baskets-ii](https://github.com/vg15o2/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vg15o2/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/vg15o2/leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/vg15o2/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
