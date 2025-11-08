@@ -289,6 +289,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1628-count-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vg15o2/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vg15o2/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vg15o2/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vg15o2/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vg15o2/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/vg15o2/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -468,6 +469,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0136-single-number](https://github.com/vg15o2/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vg15o2/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vg15o2/leetcode/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vg15o2/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vg15o2/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vg15o2/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -840,6 +842,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Memoization
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vg15o2/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vg15o2/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vg15o2/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vg15o2/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
