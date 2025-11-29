@@ -132,6 +132,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vg15o2/leetcode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/vg15o2/leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -579,6 +580,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vg15o2/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -646,6 +648,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vg15o2/leetcode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/vg15o2/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/vg15o2/leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/vg15o2/leetcode/tree/master/0611-valid-triangle-number) |
