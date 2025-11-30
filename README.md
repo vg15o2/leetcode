@@ -173,6 +173,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vg15o2/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vg15o2/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vg15o2/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/vg15o2/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/vg15o2/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vg15o2/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -372,6 +373,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vg15o2/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/vg15o2/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vg15o2/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/vg15o2/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/vg15o2/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/vg15o2/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vg15o2/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -466,6 +468,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/vg15o2/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vg15o2/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/vg15o2/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vg15o2/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
