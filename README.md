@@ -87,6 +87,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vg15o2/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/vg15o2/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/vg15o2/leetcode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/vg15o2/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vg15o2/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vg15o2/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/vg15o2/leetcode/tree/master/1642-water-bottles) |
