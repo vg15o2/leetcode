@@ -91,6 +91,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vg15o2/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vg15o2/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/vg15o2/leetcode/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/vg15o2/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/vg15o2/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vg15o2/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -784,6 +785,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/vg15o2/leetcode/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vg15o2/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/vg15o2/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vg15o2/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vg15o2/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
