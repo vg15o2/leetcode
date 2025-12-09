@@ -264,6 +264,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/vg15o2/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vg15o2/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vg15o2/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/vg15o2/leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vg15o2/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vg15o2/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vg15o2/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -412,6 +413,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vg15o2/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/vg15o2/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vg15o2/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3583-count-special-triplets](https://github.com/vg15o2/leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vg15o2/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vg15o2/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vg15o2/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -471,6 +473,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3242-count-elements-with-maximum-frequency](https://github.com/vg15o2/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vg15o2/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vg15o2/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/vg15o2/leetcode/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vg15o2/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vg15o2/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vg15o2/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
