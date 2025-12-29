@@ -11,6 +11,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0165-compare-version-numbers](https://github.com/vg15o2/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vg15o2/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/vg15o2/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/vg15o2/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/vg15o2/leetcode/tree/master/0868-push-dominoes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/vg15o2/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -384,6 +385,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vg15o2/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/vg15o2/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/vg15o2/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/vg15o2/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/vg15o2/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/vg15o2/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -524,6 +526,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0136-single-number](https://github.com/vg15o2/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vg15o2/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vg15o2/leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/vg15o2/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vg15o2/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vg15o2/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -801,6 +804,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | ------- |
 | [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/vg15o2/leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/vg15o2/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vg15o2/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vg15o2/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vg15o2/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
