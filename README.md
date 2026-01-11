@@ -61,6 +61,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vg15o2/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/vg15o2/leetcode/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vg15o2/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -150,6 +151,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vg15o2/leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/vg15o2/leetcode/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/vg15o2/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vg15o2/leetcode/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -318,6 +320,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vg15o2/leetcode/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/vg15o2/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vg15o2/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/vg15o2/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -679,6 +682,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [0036-valid-sudoku](https://github.com/vg15o2/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vg15o2/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vg15o2/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/vg15o2/leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/vg15o2/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vg15o2/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/vg15o2/leetcode/tree/master/0498-diagonal-traverse) |
@@ -786,6 +790,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vg15o2/leetcode/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/vg15o2/leetcode/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vg15o2/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vg15o2/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
