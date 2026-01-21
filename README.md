@@ -267,6 +267,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vg15o2/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vg15o2/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vg15o2/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vg15o2/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vg15o2/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vg15o2/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vg15o2/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -549,6 +550,7 @@ Collection of daily challenges and rest of em, thanks to leethub and its daddy
 | [2529-range-product-queries-of-powers](https://github.com/vg15o2/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vg15o2/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vg15o2/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vg15o2/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/vg15o2/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vg15o2/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vg15o2/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
